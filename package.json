@@ -19,7 +19,4 @@
   },
   "author": "Magnús",
   "license": "ISC",
-  "engines": {
-    "node": "4.1.2"
-  }
 }
