@@ -2,7 +2,7 @@
 
 //moduels we are using in this app
 const express = require('express');
-const api = require('./Api/api');
+const api = require('./api/api');
 
 api.set('port', (process.env.PORT || 5000));
 

@@ -12,5 +12,10 @@ api.get('/', (req, res) =>
     res.render('pages/index');
 });
 
+api.get('/about', (req,res) =>
+{
+    res.render('pages/about')
+})
+
 //bundle this code and make it visable to other parts of our code
 module.exports = api;
