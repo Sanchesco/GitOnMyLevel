@@ -3,7 +3,6 @@
 //modules we are using in our app
 const express    = require('express');
 const bodyParser = require('body-parser');
-const data       = require('../Config/database');
 
 const api = express();
 
