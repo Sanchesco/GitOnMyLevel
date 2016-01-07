@@ -1,13 +1,13 @@
 {
   "name": "heroku",
   "version": "1.0.0",
-  "description": "test",
+  "description": "",
   "main": "index.js",
   "dependencies": {
-    "pg": "^4.4.3",
     "body-parser": "^1.14.2",
     "ejs": "^2.3.4",
-    "express": "^4.13.3"
+    "express": "^4.13.3",
+    "pg": "^4.4.3"
   },
   "devDependencies": {},
   "scripts": {
@@ -15,8 +15,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "GitOnMyLevel"
+    "url": "git+https://github.com/Sanchesco/GitOnMyLevel.git"
   },
-  "author": "Magnús",
+  "author": "",
   "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sanchesco/GitOnMyLevel/issues"
+  },
+  "homepage": "https://github.com/Sanchesco/GitOnMyLevel#readme"
 }
