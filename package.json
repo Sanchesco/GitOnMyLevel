@@ -1,0 +1,25 @@
+	{
+  "name": "heroku",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "index.js",
+  "dependencies": {
+    "pg": "^4.4.3",
+    "body-parser": "^1.14.2",
+    "ejs": "^2.3.4",
+    "express": "^4.13.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "GitOnMyLevel"
+  },
+  "author": "Magnús",
+  "license": "ISC",
+  "engines": {
+    "node": "4.1.2"
+  },
+}
